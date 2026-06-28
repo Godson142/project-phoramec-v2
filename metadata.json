@@ -1,0 +1,10 @@
+{
+  "name": "Phoramec Imports Avenue",
+  "description": "Mobile-first e-commerce catalog and custom ordering platform for Phoramec Imports Avenue, serving the Ghanaian community with intuitive navigation, predictive search, and WhatsApp order handshakes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
